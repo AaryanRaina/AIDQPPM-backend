@@ -1,0 +1,110 @@
+SID,quespaperID,dod,question,coption,solution
+1,1,1,Following two expressions  $6 \times 3$ and $15 + 3$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $6 \times 3$ आणि  $15 + 3$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 6 \times 3 = 18 $ and $ 15 + 3 = 18 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$6 \times 3 = 15 + 3$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 6 \times 3 = 18 $ आणि $ 15 + 3 = 18 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$6 \times 3 = 15 + 3$"
+1,1,1,Following two expressions  $2 \times 4$ and $19 - 11$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $2 \times 4$ आणि  $19 - 11$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 2 \times 4 = 8 $ and $ 19 - 11 = 8 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$2 \times 4 = 19 - 11$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 2 \times 4 = 8 $ आणि $ 19 - 11 = 8 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$2 \times 4 = 19 - 11$"
+1,1,1,Following two expressions  $6 \times 3$ and $15 + 3$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $6 \times 3$ आणि  $15 + 3$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 6 \times 3 = 18 $ and $ 15 + 3 = 18 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$6 \times 3 = 15 + 3$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 6 \times 3 = 18 $ आणि $ 15 + 3 = 18 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$6 \times 3 = 15 + 3$"
+1,1,1,Following two expressions  $11 - 5$ and $1 \times 6$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $11 - 5$ आणि  $1 \times 6$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 11 - 5 = 6 $ and $ 1 \times 6 = 6 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$11 - 5 = 1 \times 6$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 11 - 5 = 6 $ आणि $ 1 \times 6 = 6 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$11 - 5 = 1 \times 6$"
+1,1,2,Following two expressions  $9 - 1$ and $9 \times 1$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $9 - 1$ आणि  $9 \times 1$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,False <br> # चूक,"Answer - False <br>In mathematics we can equate any two expressions if the values of both sides of the expressions are equal.<br>Here, $ 9 - 1 = 8 $ and $ 9 \times 1 = 9 $<br>Since both these expressions are not giving same value we can not equate these two, to form an equation.<br>$9 - 1 ≠ 9 \times 1$<br> # उत्तर - चूक <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हाच ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 9 - 1 = 8 $ आणि $ 9 \times 1 = 9 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान नाही. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येणार नाहीत.<br>$9 - 1 ≠ 9 \times 1$"
+1,1,2,Following two expressions  $5 \times 6$ and $11 + 6$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $5 \times 6$ आणि  $11 + 6$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,False <br> # चूक,"Answer - False <br>In mathematics we can equate any two expressions if the values of both sides of the expressions are equal.<br>Here, $ 5 \times 6 = 30 $ and $ 11 + 6 = 17 $<br>Since both these expressions are not giving same value we can not equate these two, to form an equation.<br>$5 \times 6 ≠ 11 + 6$<br> # उत्तर - चूक <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हाच ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 5 \times 6 = 30 $ आणि $ 11 + 6 = 17 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान नाही. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येणार नाहीत.<br>$5 \times 6 ≠ 11 + 6$"
+1,1,2,Following two expressions  $8 + 16$ and $5 - 20$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $8 + 16$ आणि  $5 - 20$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,False <br> # चूक,"Answer - False <br>In mathematics we can equate any two expressions if the values of both sides of the expressions are equal.<br>Here, $ 8 + 16 = 24 $ and $ 5 - 20 = -15 $<br>Since both these expressions are not giving same value we can not equate these two, to form an equation.<br>$8 + 16 ≠ 5 - 20$<br> # उत्तर - चूक <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हाच ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 8 + 16 = 24 $ आणि $ 5 - 20 = -15 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान नाही. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येणार नाहीत.<br>$8 + 16 ≠ 5 - 20$"
+1,1,3,"Match the pairs for equality / समीकरण तयार होतील अशा योग्य जोड्या जुळवा <br>\[
+            \begin{array}{|c|c|c|c|}
+            \hline
+            \text{ } & \text{A}& \text{ } & \text{B} \\
+            \hline
+            1 & 86\ \times\ 49 & a. & 87\ -\ 12 \\
+            \hline
+            2 & 33\ \times\ 98 & b. & 77\ \times\ 42 \\
+            \hline
+            3 & 13\ +\ 62 & c. & 98\ \times\ 43 \\
+            \hline
+            4 & 28\ +\ 71 & d. & 56\ +\ 43 \\
+            \hline
+            \end{array}
+            \]
+        ","$1-c,2-b,3-a,4-d$","Answer/उत्तर: $$1-c,2-b,3-a,4-d$$ <br> 1. By solving $A$ and $B$ we get / $A$ आणि $B$ सोडवून <br>\[
+            \begin{array}{|c|c|c|c|}
+            \hline
+            \text{ } & \text{A}& \text{ } & \text{B} \\
+            \hline
+            1 & 86\ \times\ 49 = 4214 & c. & 98\ \times\ 43 = 4214 \\
+            \hline
+            2 & 33\ \times\ 98 = 3234 & b. & 77\ \times\ 42 = 3234 \\
+            \hline
+            3 & 13\ +\ 62 = 75 & a. & 87\ -\ 12 = 75 \\
+            \hline
+            4 & 28\ +\ 71 = 99 & d. & 56\ +\ 43 = 99 \\
+            \hline
+            \end{array}
+            \]<br>From this, correct pairing which can form equation are $$1-c,2-b,3-a,4-d$$<br>या वरून योग्य जोड्या $$1-c,2-b,3-a,4-d$$ आहेत.
+            "
+1,1,3,Coffee Shop is $700$ metres from Factory. Medicine Shop is $950$ metres from Office. Which of the following statement is correct?<br>#कॉफी शॉप आणि कारखाना यातील अंतर $700$ मी आहे. तर औषधाचे दुकान आणि कार्यालय यातील अंतर $950$ मी आहे. तर खालील पैकी कोणते विधान बरोबर आहे?,Distance between Coffee Shop and Factory is not equal to distance between Medicine Shop and Office<br>#कॉफी शॉप ते कारखाना यातील अंतर आणि औषधाचे दुकान ते कार्यालय यातील अंतर समान नाही,Answer: Distance between Coffee Shop and Factory is not equal to distance between Medicine Shop and Office <br> Distance between Coffee Shop and Factory = $700\ m$<br> Distance between Medicine Shop and Office = $950\ m$<br> Other distances mentioned in options are not known and can't be found out. $\therefore$ distances given in statement are not equal.<br># उत्तर: कॉफी शॉप ते कारखाना यातील अंतर आणि औषधाचे दुकान ते कार्यालय यातील अंतर समान नाही <br> कॉफी शॉप ते कारखाना यातील अंतर = $700$ मी आहे.<br> औषधाचे दुकान ते कार्यालय यातील अंतर = $950$ मी आहे. <br> पर्यायामध्ये उल्लेख केलेली अंतरे माहिती नहित आणि ठरवता पण येत नाहीत. म्हणून विधानात विचारलेली अंतरे समान नाहीत. <br>
+1,1,1,Following two expressions  $6 \times 3$ and $15 + 3$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $6 \times 3$ आणि  $15 + 3$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 6 \times 3 = 18 $ and $ 15 + 3 = 18 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$6 \times 3 = 15 + 3$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 6 \times 3 = 18 $ आणि $ 15 + 3 = 18 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$6 \times 3 = 15 + 3$"
+1,1,1,Following two expressions  $6 \times 3$ and $15 + 3$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $6 \times 3$ आणि  $15 + 3$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 6 \times 3 = 18 $ and $ 15 + 3 = 18 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$6 \times 3 = 15 + 3$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 6 \times 3 = 18 $ आणि $ 15 + 3 = 18 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$6 \times 3 = 15 + 3$"
+1,1,1,Following two expressions  $11 - 5$ and $1 \times 6$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $11 - 5$ आणि  $1 \times 6$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 11 - 5 = 6 $ and $ 1 \times 6 = 6 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$11 - 5 = 1 \times 6$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 11 - 5 = 6 $ आणि $ 1 \times 6 = 6 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$11 - 5 = 1 \times 6$"
+1,1,1,Following two expressions  $11 - 5$ and $1 + 5$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $11 - 5$ आणि  $1 + 5$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,True <br> # बरोबर,"Answer - True<br>In mathematics we can equate any two expressions if the values of both sides of expressions are equal.<br>Here, $ 11 - 5 = 6 $ and $ 1 + 5 = 6 $<br>Since both the given expressions are giving the same value we can equate these two to form an equation.<br>$11 - 5 = 1 + 5$<br> # उत्तर - बरोबर <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हा ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 11 - 5 = 6 $ आणि $ 1 + 5 = 6 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान आहे. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येतील.<br>$11 - 5 = 1 + 5$"
+1,1,2,Following two expressions  $9 - 1$ and $9 \times 1$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $9 - 1$ आणि  $9 \times 1$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,False <br> # चूक,"Answer - False <br>In mathematics we can equate any two expressions if the values of both sides of the expressions are equal.<br>Here, $ 9 - 1 = 8 $ and $ 9 \times 1 = 9 $<br>Since both these expressions are not giving same value we can not equate these two, to form an equation.<br>$9 - 1 ≠ 9 \times 1$<br> # उत्तर - चूक <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हाच ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 9 - 1 = 8 $ आणि $ 9 \times 1 = 9 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान नाही. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येणार नाहीत.<br>$9 - 1 ≠ 9 \times 1$"
+1,1,2,Following two expressions  $3 \times 8$ and $8 + 23$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $3 \times 8$ आणि  $8 + 23$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,False <br> # चूक,"Answer - False <br>In mathematics we can equate any two expressions if the values of both sides of the expressions are equal.<br>Here, $ 3 \times 8 = 24 $ and $ 8 + 23 = 31 $<br>Since both these expressions are not giving same value we can not equate these two, to form an equation.<br>$3 \times 8 ≠ 8 + 23$<br> # उत्तर - चूक <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हाच ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 3 \times 8 = 24 $ आणि $ 8 + 23 = 31 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान नाही. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येणार नाहीत.<br>$3 \times 8 ≠ 8 + 23$"
+1,1,2,Following two expressions  $8 + 16$ and $5 - 20$ will form two sides (LHS and RHS) of an equation. <br> # खाली दिलेली दोन विधाने  $8 + 16$ आणि  $5 - 20$ मिळून समीकरण (डावी बाजू = उजवी बाजू) बनवू शकतात.,False <br> # चूक,"Answer - False <br>In mathematics we can equate any two expressions if the values of both sides of the expressions are equal.<br>Here, $ 8 + 16 = 24 $ and $ 5 - 20 = -15 $<br>Since both these expressions are not giving same value we can not equate these two, to form an equation.<br>$8 + 16 ≠ 5 - 20$<br> # उत्तर - चूक <br>जेंव्हा दोन गणिती विधानांचे मूल्य समान असते तेव्हाच ती दोन विधाने समीकरण पध्दतीने मांडता येतात.<br>$ 8 + 16 = 24 $ आणि $ 5 - 20 = -15 $ <br>येथे दिलेल्या दोन्ही गणिती विधानांचे मूल्य समान नाही. त्यामुळे दिलेली दोन्ही विधाने मिळून समीकरण पध्दतीने मांडता येणार नाहीत.<br>$8 + 16 ≠ 5 - 20$"
+1,1,3,"Match the pairs for equality / समीकरण तयार होतील अशा योग्य जोड्या जुळवा <br>\[
+            \begin{array}{|c|c|c|c|}
+            \hline
+            \text{ } & \text{A}& \text{ } & \text{B} \\
+            \hline
+            1 & 27\ \div\ 97 & a. & 13\ \div\ 47 \\
+            \hline
+            2 & 22\ \div\ 98 & b. & 56\ -\ 51 \\
+            \hline
+            3 & 87\ -\ 82 & c. & 21\ \div\ 97 \\
+            \hline
+            4 & 44\ +\ 47 & d. & 91\ \div\ 1 \\
+            \hline
+            \end{array}
+            \]
+        ","$1-a,2-c,3-b,4-d$","Answer/उत्तर: $$1-a,2-c,3-b,4-d$$ <br> 1. By solving $A$ and $B$ we get / $A$ आणि $B$ सोडवून <br>\[
+            \begin{array}{|c|c|c|c|}
+            \hline
+            \text{ } & \text{A}& \text{ } & \text{B} \\
+            \hline
+            1 & 27\ \div\ 97 = 0.28 & a. & 13\ \div\ 47 = 0.28 \\
+            \hline
+            2 & 22\ \div\ 98 = 0.22 & c. & 21\ \div\ 97 = 0.22 \\
+            \hline
+            3 & 87\ -\ 82 = 5 & b. & 56\ -\ 51 = 5 \\
+            \hline
+            4 & 44\ +\ 47 = 91 & d. & 91\ \div\ 1 = 91 \\
+            \hline
+            \end{array}
+            \]<br>From this, correct pairing which can form equation are $$1-a,2-c,3-b,4-d$$<br>या वरून योग्य जोड्या $$1-a,2-c,3-b,4-d$$ आहेत.
+            "
+1,1,3,Restaurant is $900$ metres from Bus Stop. Factory is $850$ metres from Bus Stop. Assuming Restaurant and Factory are in the same direction from Bus Stop which of the following statement is correct?<br>#उपहारगृह आणि बस स्थानक यातील अंतर $900$ मी आहे. कारखाना आणि बस स्थानक यातील अंतर $850$ मी आहे. उपहारगृह आणि कारखाना हे बस स्थानका पासून एकाच दिशेने आहेत. तर खालील पैकी कोणते विधान बरोबर आहे?,Distance between Bus Stop and Factory and that of between Factory and Restaurant is not equal<br>#बस स्थानक आणि कारखाना हे अंतर आणि उपहारगृह आणि कारखाना हे अंतर समान नाही,Answer: Distance between Bus Stop and Factory and that of between Factory and Restaurant is not equal <br> Distance between Bus Stop and Restaurant = $900\ m$<br>Distance between Bus Stop and Factory = $850\ m$<br>$\therefore$ Distance between Restaurant and Factory = $50\ m$<br>This shows that neither of the distances are equal. <br># उत्तर: बस स्थानक आणि कारखाना हे अंतर आणि उपहारगृह आणि कारखाना हे अंतर समान नाही <br> बस स्थानक आणि उपहारगृह यातील अंतर = $900$ मी <br>बस स्थानक आणि कारखाना यातील अंतर = $850$ मी <br>$\therefore$ उपहारगृह आणि कारखाना यातील अंतर = $50$ मी <br>या वरून आपल्याला हे कळते की कोणत्याच दोन ठिकाणांमधील अंतर समान नाही.
+1,1,3,"Match the pairs for equality / समीकरण तयार होतील अशा योग्य जोड्या जुळवा <br>\[
+            \begin{array}{|c|c|c|c|}
+            \hline
+            \text{ } & \text{A}& \text{ } & \text{B} \\
+            \hline
+            1 & 27\ \div\ 97 & a. & 13\ \div\ 47 \\
+            \hline
+            2 & 22\ \div\ 98 & b. & 56\ -\ 51 \\
+            \hline
+            3 & 87\ -\ 82 & c. & 21\ \div\ 97 \\
+            \hline
+            4 & 44\ +\ 47 & d. & 91\ \div\ 1 \\
+            \hline
+            \end{array}
+            \]
+        ","$1-a,2-c,3-b,4-d$","Answer/उत्तर: $$1-a,2-c,3-b,4-d$$ <br> 1. By solving $A$ and $B$ we get / $A$ आणि $B$ सोडवून <br>\[
+            \begin{array}{|c|c|c|c|}
+            \hline
+            \text{ } & \text{A}& \text{ } & \text{B} \\
+            \hline
+            1 & 27\ \div\ 97 = 0.28 & a. & 13\ \div\ 47 = 0.28 \\
+            \hline
+            2 & 22\ \div\ 98 = 0.22 & c. & 21\ \div\ 97 = 0.22 \\
+            \hline
+            3 & 87\ -\ 82 = 5 & b. & 56\ -\ 51 = 5 \\
+            \hline
+            4 & 44\ +\ 47 = 91 & d. & 91\ \div\ 1 = 91 \\
+            \hline
+            \end{array}
+            \]<br>From this, correct pairing which can form equation are $$1-a,2-c,3-b,4-d$$<br>या वरून योग्य जोड्या $$1-a,2-c,3-b,4-d$$ आहेत.
+            "

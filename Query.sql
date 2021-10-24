@@ -1,1 +1,1 @@
-DELETE FROM studentperformance;
+SET PASSWORD FOR root@127.0.0.1='';
